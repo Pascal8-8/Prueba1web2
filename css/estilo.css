@@ -1,0 +1,73 @@
+#menu{
+	padding-left: 100px;
+	padding-right: 100px;
+}
+
+#hero{
+    text-align: center;
+	background-image: url("../img/fondo/bg-masthead.jpg");
+	padding-top: 300px;
+	padding-bottom: 300px;
+	background-size: cover;
+    background-position: center;
+	background-color: rgba(0,0,0,0.25);
+	background-blend-mode: multiply;
+	color: aliceblue;	
+}
+
+
+
+#integridad{
+	text-align: left;
+	padding-top: 250px;
+	padding-left: 200px;
+	padding-right: 100px;
+}
+
+#clientes{
+	padding-right: 25px;
+}
+
+#call_to_action{
+	padding-left: 25px;
+}
+
+#compromiso{
+	text-align: left;
+	padding-top: 250px;
+	padding-left: 150px;
+	padding-right: 100px;
+}
+
+
+footer{
+	padding-top: 70px;
+	padding-bottom: 50px;
+	padding-left: 50px;
+}
+
+#redes{
+	padding-left: 700px;
+}
+
+#about_us{
+	text-align: center;
+	padding-bottom: 100px;
+	padding-top: 100px;
+}
+
+p{
+	color: #989797;
+}
+
+#contacto{
+	text-align: center;
+	background-image: url("../img/fondo/bg-masthead.jpg");
+	padding-top: 300px;
+	padding-bottom: 300px;
+	background-size: cover;
+    background-position: center;
+	background-color: rgba(0,0,0,0.25);
+	background-blend-mode: multiply;
+}
+	
